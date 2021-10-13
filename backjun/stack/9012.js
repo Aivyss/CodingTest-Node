@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/9012
+// author: Aivyss
 function solution(str) {
     let list = str.split('');
     list = list.reverse();

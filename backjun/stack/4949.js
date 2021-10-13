@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/4949
+// author: Aivyss
 function bracketSekai(str) {
     let arr = str.match(/[\(\)\[\]]/g);
     arr = arr ? arr.reverse() : arr;
